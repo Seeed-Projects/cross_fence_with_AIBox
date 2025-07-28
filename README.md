@@ -38,7 +38,8 @@ python app.py -i ./scale_the_fence.mp4 -n ./yolov8n.hef --show-fps -l ./common/c
 ```
 ## Result
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/_-89czNbZ_M?list=PLpH_4mf13-A3Wm6hJp7JeT4DD9NXXUAca" title="Seeed Raspberry Pi AI Box Helps in Abnormal Event Detection: Fence Climbing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/_-89czNbZ_M/0.jpg)](https://www.youtube.com/watch?v=_-89czNbZ_M)
+
 
 ## Reference
 
